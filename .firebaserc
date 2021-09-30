@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "movies-6a9b5": {
+      "hosting": {
+        "crudmovies": [
+          "movies-6a9b5"
+        ]
+      }
+    }
+  }
+}
